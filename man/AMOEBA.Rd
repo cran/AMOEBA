@@ -53,9 +53,12 @@ Widener, M. J., Crago, N. C., and Aldstadt, J. (2012). Developing a parallel com
 questioning past evidence with new methodological approaches" supported by a grant from The Swedish Research Council (#D054740, PI: Juan Merlo).}
 
 \examples{
-###########################################
-########## Example of boundaries ##########
-###########################################
+####################
+##### Shiny App
+# Visit: http://amoeba-spatial-cluster.shinyapps.io/AMOEBA/
+
+####################
+##### R App
 require(AMOEBA)
 
 ### Columbus OH spatial analysis data set (spdep package)
